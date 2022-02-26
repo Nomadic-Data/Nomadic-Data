@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nomadic-Data
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis 
+- 🌱 I’m currently learning Data Analysis , Motoko
 - 💞️ I’m looking to collaborate on ... tba
 - 📫 How to reach me ... tba
 
